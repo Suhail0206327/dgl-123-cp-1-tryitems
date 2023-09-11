@@ -10,6 +10,8 @@ $offer = [                                           // Create array to hold off
     'discount' => 4,                                 // Offer price per pack
 ];
 
+$offer['qty'] = 3;
+
 $usual_price = $offer['qty'] * $offer['price'];      // Usual total price
 $offer_price = $offer['qty'] * $offer['discount'];   // Offer total price
 $saving      = $usual_price - $offer_price;          // Total saving
