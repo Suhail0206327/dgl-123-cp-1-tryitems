@@ -2,7 +2,7 @@
 $prefix  = 'Thank you';
 $name    = 'Ivy';
 $name = "Suhail";
-$message = $prefix . ', ' . $name;
+$message = "$prefix $name"; 
 ?>
 <!DOCTYPE html>
 <html>
