@@ -1,5 +1,5 @@
 <?php 
-$best_sellers = ['Chocolate', 'Mints', 'Fudge','Bubble gum', 'Toffe', 'Jelly beans'];
+$best_sellers = ['Chocolate', 'Mints', 'Fudge', 'Licorice','Bubble gum', 'Toffe', 'Jelly beans'];
 ?>
 
 
