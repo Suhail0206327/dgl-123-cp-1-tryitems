@@ -11,6 +11,7 @@ $offer = [                                           // Create array to hold off
 ];
 
 $offer['qty'] = 3;
+$offer['price'] = 6;
 
 $usual_price = $offer['qty'] * $offer['price'];      // Usual total price
 $offer_price = $offer['qty'] * $offer['discount'];   // Offer total price
