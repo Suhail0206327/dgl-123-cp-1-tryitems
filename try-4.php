@@ -29,6 +29,12 @@ Best Sellers
  <li>
     <?php  echo $best_sellers[2]?>
  </li>
+ <li>
+    <?php  echo $best_sellers[3]?>
+ </li>
+ <li>
+    <?php  echo $best_sellers[4]?>
+ </li>
 
     </ul>
 </head>
