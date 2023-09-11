@@ -23,6 +23,6 @@ $offers = [
       $<?php echo $offers[2]['price']; ?> </p>
       <p>
         <?php echo $offers[3]['name'] ; ?> - 
-    $ <?=  $offers[3] ['price']?> </p>
+    $ <?= $offers[3] ['price']?> </p>
   </body>
 </html>
